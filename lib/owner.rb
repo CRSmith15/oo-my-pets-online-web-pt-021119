@@ -55,6 +55,6 @@ class Owner
   end 
   
   def sell_pets
-    pets.each 
+    pets.each do |
   end 
 end
