@@ -3,4 +3,8 @@ class Owner
   attr_accessor :name, :cat, :dog, :fish, :pets 
   @@all = []
   @@pets = {:cats => [], :dogs => [], :fish => []}
+  
+  def initialize
+  
+  
 end
