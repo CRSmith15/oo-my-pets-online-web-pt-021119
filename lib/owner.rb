@@ -56,6 +56,7 @@ class Owner
   
   def sell_pets
     pets.each do |pet, array|
-      array.map do 
+      array.map do |pet|
+        
   end 
 end
