@@ -66,6 +66,6 @@ class Owner
   def list_pets
     all_dogs
     all_cats
-    all_fish = 
+    all_fish = @pets[:fishes].size
   end 
 end
