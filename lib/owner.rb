@@ -55,6 +55,7 @@ class Owner
   end 
   
   def sell_pets
-    pets.each do |
+    pets.each do |pet, array|
+      
   end 
 end
